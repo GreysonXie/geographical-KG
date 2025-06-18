@@ -2,3 +2,7 @@
 利用LLM的 API接口和SPO标注法提取三元组，提取格式为JSON，并借助自建网页进行人工筛选和修改AI的结果
 
 如果想使用整体的自动地质领域三元组提取系统请看融合版2.0
+
+## 目前应用已分享到 **streamlit cloud**
+
+[快来一键访问](https://geologicaltriples-b2vcshvn5rvq5fm9z2xvkx.streamlit.app/)
